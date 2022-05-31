@@ -34,7 +34,7 @@ Contact me: <a href="https://in.linkedin.com/in/rohit-b-kadam" target="git"> <im
 <a href="nodejs.org/" title="nodeJS"> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nodeJS" height="32"/></a>
 <a href="https://angular.io/" title="Angular"> <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" height="32"/></a>
 
-#### Tools:
+<!-- #### Tools:
 <a href="https://git-scm.com/" target="git"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" height="32"/>  </a>
 <a href="https://www.linux.org" target="Linux"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" height="32"/></a>
-<a href="https://code.visualstudio.com/" title="Visual Studio Code"> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code" height="32"/> </a>
+<a href="https://code.visualstudio.com/" title="Visual Studio Code"> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code" height="32"/> </a> -->
