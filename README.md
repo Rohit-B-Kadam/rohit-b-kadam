@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Rohit kadam👋
+## Hi there 👋, I'm Rohit kadam
 Software Developer From India ❤️
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=rohit-b-kadam)
