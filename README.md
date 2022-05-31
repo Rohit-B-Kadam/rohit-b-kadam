@@ -1,29 +1,25 @@
-### Hi, I’m Rohit Kadam. 👋
-
-- 🔭 I’m currently working on react native starter kit
-- 😎 Check my portfoliio https://rohit-kadam.web.app
-- 🌱 I’m currently learning Design Pattern
-- 👯 I’m looking to collaborate on open source project
-- 👀 I’m interested in Mobile and Web Development
-- 📫 How to reach me: rohitkadam1407@gmail.com
-
-<h1 align="center">Hi there 👋, I'm Rohit</h1>
-<h3 align="center">Software Developer From India</h3>
+## Hi there 👋, I'm Rohit kadam👋
+Software Developer From India ❤️
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=rohit-b-kadam)
 [![Github](https://img.shields.io/github/followers/rohit-b-kadam?label=Followers&style=social)](https://github.com/Rohit-B-Kadam)
 [![GitHub stars](https://img.shields.io/github/stars/rohit-b-kadam?label=Stars&style=social)](https://github.com/Rohit-B-Kadam)
 
-- 🌱 I’m currently working on [react native starter kit](https://github.com/The-Eliminators/react-native-starter-kit)
-- 💬 Contact me:
-  <a href="https://in.linkedin.com/in/rohit-b-kadam" target="git"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="git"></a> <a href="mailto:rohitkadam1407@gmail.com" target="git"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="git"></a>
+Contact me: <a href="https://in.linkedin.com/in/rohit-b-kadam" target="git"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="git"></a> <a href="mailto:rohitkadam1407@gmail.com" target="git"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="git"></a>
+
+
+- 🔭 I’m currently working on [React-native Starter Kit](https://github.com/The-Eliminators/react-native-starter-kit)
+- 😎 Check my portfoliio https://rohit-kadam.web.app
+- 🌱 I’m currently learning Design Pattern
+- 👀 I’m interested in Mobile and Web Development
+
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-b-kadam&theme=slateorange&layout=compact" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<!-- <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rohit-b-kadam&show_icons=true&theme=slateorange&layout=compact" />
-</a>
+</a> -->
 
 <h3>Tools</h3>
 <p align="left">
