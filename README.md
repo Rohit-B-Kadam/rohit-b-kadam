@@ -9,7 +9,7 @@ Contact me: <a href="https://in.linkedin.com/in/rohit-b-kadam" target="git"> <im
 
 
 - 🔭 I’m currently working on [React-native Starter Kit](https://github.com/The-Eliminators/react-native-starter-kit)
-- 😎 Check my portfoliio https://rohit-kadam.web.app
+- 😎 Check my terminal portfoliio https://rohit-kadam.web.app
 - 🌱 I’m currently learning Design Pattern
 - 👀 I’m interested in Mobile and Web Development
 
