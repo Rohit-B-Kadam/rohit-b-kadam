@@ -8,7 +8,7 @@ Software Developer From India ❤️
 Contact me: <a href="https://in.linkedin.com/in/rohit-b-kadam" target="git"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="git"></a> <a href="mailto:rohitkadam1407@gmail.com" target="git"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="git"></a>
 
 
-- 🔭 I’m currently working on [React-native Starter Kit](https://github.com/The-Eliminators/react-native-starter-kit)
+- 🔭 I’m currently working in SpringCT
 - 😎 Check my terminal portfoliio https://rohit-kadam.web.app
 - 🌱 I’m currently learning AR and Design Pattern
 - 👀 I’m interested in Mobile and Web Development
